@@ -1,0 +1,28 @@
+body {
+    background: url(images/farmer.png);
+}
+.container {
+    background-image: url("farmer.png");
+    max-width: 1200px;
+    margin: 0 auto;
+}
+h1 {
+    font-family: 'Roboto', Oxygen;
+    background: rgb(41, 151, 41);
+    padding: 20px;
+    font-size: 60px;
+    color: aliceblue;
+    display: inline-block;
+    text-align: center
+}
+h2 {
+    font-family: 'Open Sans', sans-serif;
+    background: red;
+    font-size: 40px;
+}
+img {
+    float: right;
+    padding: 10px;
+    border: 1px solid red;
+    margin: 15px;
+}
